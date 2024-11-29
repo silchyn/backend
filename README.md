@@ -14,7 +14,6 @@ documented API.
 - JWT Authentication
 - Roles Authorization
 - Docker Compose
--
 
 ## Getting Started
 
